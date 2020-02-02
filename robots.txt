@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahguedooje.mcphersonindustries.com/sitemap.xml
